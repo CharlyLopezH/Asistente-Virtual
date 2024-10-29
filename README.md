@@ -6,3 +6,8 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Este código utiliza librerías para hacer uso de fechas y ventanas modales;
+Es importante revisar los archivos .CSS indicados en el componente GrupoBotones porque si no, no hace el efecto window modal que buscamos
+para el asistente dinámico ejemplificado.
+
